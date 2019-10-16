@@ -1,2 +1,4 @@
 gs
 // changes
+git config --global user.email "yaanilkumar209@gmail.com"
+
